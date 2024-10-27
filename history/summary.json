@@ -4,10 +4,10 @@
     "url": "https://nextcloud.mplabs.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.mplabs.cloud.ico",
     "slug": "mp-labs-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1052,
@@ -15,7 +15,9 @@
     "timeWeek": 961,
     "timeMonth": 1043,
     "timeYear": 1052,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-27": 1
+    }
   },
   {
     "name": "felixduerrwald.de",
@@ -34,7 +36,7 @@
     "timeMonth": 635,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-10-27": 2,
+      "2024-10-27": 1070,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -93,7 +95,7 @@
     "url": "https://www.mariana-friedri.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.mariana-friedri.ch.ico",
     "slug": "mariana-friedrich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -104,6 +106,8 @@
     "timeWeek": 1244,
     "timeMonth": 1353,
     "timeYear": 1372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-27": 0
+    }
   }
 ]

@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.mplabs.cloud.ico",
     "slug": "mp-labs-nextcloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.50%",
+    "uptimeDay": "74.11%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.50%",
     "time": 1052,
-    "timeDay": 949,
-    "timeWeek": 961,
-    "timeMonth": 1043,
+    "timeDay": 0,
+    "timeWeek": 940,
+    "timeMonth": 1045,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2024-10-27": 1
+      "2024-10-28": 2,
+      "2024-10-27": 371
     }
   },
   {
@@ -31,12 +32,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 637,
-    "timeDay": 486,
-    "timeWeek": 589,
-    "timeMonth": 635,
+    "timeDay": 0,
+    "timeWeek": 562,
+    "timeMonth": 636,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-10-27": 1070,
+      "2024-10-28": 2,
+      "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -96,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mariana-friedri.ch.ico",
     "slug": "mariana-friedrich",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.50%",
+    "uptimeDay": "74.15%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.50%",
     "time": 1372,
-    "timeDay": 1170,
-    "timeWeek": 1244,
-    "timeMonth": 1353,
+    "timeDay": 0,
+    "timeWeek": 1161,
+    "timeMonth": 1356,
     "timeYear": 1372,
     "dailyMinutesDown": {
-      "2024-10-27": 0
+      "2024-10-28": 2,
+      "2024-10-27": 370
     }
   }
 ]

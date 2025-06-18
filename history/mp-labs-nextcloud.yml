@@ -1,7 +1,7 @@
 url: https://nextcloud.mplabs.cloud
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-18T16:01:09.049Z
+status: up
+code: 200
+responseTime: 1222
+lastUpdated: 2025-06-18T16:14:05.412Z
 startTime: 2024-09-06T14:12:06.495Z
 generator: Upptime <https://github.com/upptime/upptime>

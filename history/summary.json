@@ -11,9 +11,9 @@
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.89%",
     "time": 1171,
-    "timeDay": 884,
-    "timeWeek": 1106,
-    "timeMonth": 1091,
+    "timeDay": 966,
+    "timeWeek": 1084,
+    "timeMonth": 1084,
     "timeYear": 1200,
     "dailyMinutesDown": {
       "2025-11-20": 38,
@@ -31,21 +31,19 @@
     "slug": "mariana-friedrich",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "98.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.10%",
     "time": 1540,
-    "timeDay": 1328,
-    "timeWeek": 1529,
-    "timeMonth": 1564,
+    "timeDay": 1437,
+    "timeWeek": 1512,
+    "timeMonth": 1556,
     "timeYear": 1576,
     "dailyMinutesDown": {
-      "2025-11-20": 13,
       "2024-11-24": 401,
       "2024-11-23": 1440,
-      "2024-11-22": 1440,
-      "2024-11-21": 1440
+      "2024-11-22": 1440
     }
   }
 ]

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1135,
-    "timeDay": 1437,
-    "timeWeek": 1311,
-    "timeMonth": 1230,
-    "timeYear": 1147,
+    "time": 1137,
+    "timeDay": 2259,
+    "timeWeek": 1461,
+    "timeMonth": 1268,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2025-10-05": 51,
       "2025-11-02": 405,
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mariana-friedri.ch.ico",
     "slug": "mariana-friedrich",
     "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1535,
-    "timeDay": 1048,
-    "timeWeek": 1399,
-    "timeMonth": 1462,
-    "timeYear": 1573,
+    "uptime": "99.22%",
+    "uptimeDay": "40.29%",
+    "uptimeWeek": "91.47%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "99.81%",
+    "time": 1533,
+    "timeDay": 470,
+    "timeWeek": 1279,
+    "timeMonth": 1429,
+    "timeYear": 1569,
     "dailyMinutesDown": {
       "2025-11-21": 16,
       "2025-12-22": 17,
@@ -47,7 +47,8 @@
       "2026-03-31": 25,
       "2026-04-12": 25,
       "2026-05-01": 40,
-      "2026-07-03": 0
+      "2026-07-04": 87,
+      "2026-07-03": 773
     }
   }
 ]

@@ -5,23 +5,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.mplabs.cloud.ico",
     "slug": "mp-labs-nextcloud",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 1171,
-    "timeDay": 690,
-    "timeWeek": 1068,
-    "timeMonth": 1138,
-    "timeYear": 1136,
+    "uptime": "99.83%",
+    "uptimeDay": "72.87%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.81%",
+    "time": 1169,
+    "timeDay": 275,
+    "timeWeek": 955,
+    "timeMonth": 1113,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2025-11-02": 405,
       "2025-11-20": 38,
       "2025-11-21": 17,
       "2026-04-12": 25,
       "2026-08-11": 128,
-      "2026-10-21": 0
+      "2026-10-22": 124,
+      "2026-10-21": 266
     }
   },
   {
@@ -30,16 +31,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mariana-friedri.ch.ico",
     "slug": "mariana-friedrich",
     "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
-    "time": 1570,
-    "timeDay": 783,
-    "timeWeek": 1200,
-    "timeMonth": 1315,
-    "timeYear": 1494,
+    "uptime": "98.99%",
+    "uptimeDay": "72.89%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.07%",
+    "time": 1568,
+    "timeDay": 293,
+    "timeWeek": 1088,
+    "timeMonth": 1285,
+    "timeYear": 1490,
     "dailyMinutesDown": {
       "2025-11-21": 16,
       "2025-12-22": 17,
@@ -52,7 +53,8 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 773,
-      "2026-10-21": 0
+      "2026-10-22": 124,
+      "2026-10-21": 266
     }
   }
 ]
